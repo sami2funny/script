@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://middleware-fbi.vercel.app/api/script"))()
+loadstring(game:HttpGet("https://middleware-fbi.vercel.app/loader.lua))()
